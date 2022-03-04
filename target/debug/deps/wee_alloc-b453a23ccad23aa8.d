@@ -1,0 +1,11 @@
+/home/schrader/git/rust/udemy/snake_game/target/debug/deps/wee_alloc-b453a23ccad23aa8.rmeta: /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_unix.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes_init.rs
+
+/home/schrader/git/rust/udemy/snake_game/target/debug/deps/wee_alloc-b453a23ccad23aa8.d: /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_unix.rs /home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes_init.rs
+
+/home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/lib.rs:
+/home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/extra_assert.rs:
+/home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/const_init.rs:
+/home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/neighbors.rs:
+/home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes.rs:
+/home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/imp_unix.rs:
+/home/schrader/.cargo/registry/src/github.com-1ecc6299db9ec823/wee_alloc-0.4.5/src/size_classes_init.rs:
